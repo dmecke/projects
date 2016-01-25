@@ -1,0 +1,14 @@
+{
+    "name": "cunningsoft/projects",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Daniel Mecke",
+            "email": "daniel.mecke@cunningsoft.de"
+        }
+    ],
+    "require": {
+        "twig/twig": "1.6.5"
+    }
+}
